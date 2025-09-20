@@ -2,6 +2,20 @@
 
 ## ***Simplifying the dispatch process***
 
+*Convoy Connect* was the capstone project for Cohort 31 of the Galvanize Software Development Immersive ([SDI](https://www.galvanize.com/software-development-immersive/)). It was built by:
+
+- [alec-somers](https://github.com/alec-somers)
+- [radiasian1122](https://github.com/radiasian1122)
+- [imjustgonnasendit](https://github.com/imjustgonnasendit)
+- [0xPerez](https://github.com/0xPerez)
+- [SamA1AD](https://github.com/SamA1AD)
+- [DouglasAshcroft](https://github.com/DouglasAshcroft)
+- [me](https://github.com/joshrnoll)
+
+Thank you to all my teammates. I hope our paths cross again some day!
+
+## Screenshots
+
 <table>
   <tr>
     <td><img src="docs/screenshots/cc-screenshot4.png" alt="Screenshot 1" height="500"/></td>
